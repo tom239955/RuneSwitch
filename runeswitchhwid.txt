@@ -81,5 +81,4 @@ C152E9D4-70E9-4845-BC7D-FA6D01B3E94C
 ;newhwidtech2
 
 ;New line1
-;newhwidtech2
-Testing another new hardware ID
+It just appends
