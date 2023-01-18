@@ -80,5 +80,10 @@ C152E9D4-70E9-4845-BC7D-FA6D01B3E94C
 ;newhwidtech
 ;newhwidtech2
 
+;New line1
+New HWID LINE
+;New line1
+New HWID LINE/ntestdffff
+Multi
 
-testingagian
+lol
