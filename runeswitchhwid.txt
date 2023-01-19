@@ -86,3 +86,5 @@ Tom Test 10
 
 Test again
 
+$hwid
+
