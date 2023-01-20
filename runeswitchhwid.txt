@@ -6,7 +6,7 @@ A959A1A8-0E6C-0000-0000-000000000000
 
 
 
-monthers
+
 
 ; Ruther, LA picture, 1 month but really 3 first buyer 1/6
 D8BE9275-C262-DA2C-50C0-FC349767B029
@@ -74,7 +74,7 @@ C152E9D4-70E9-4845-BC7D-FA6D01B3E94C
 
 
 
-;;; end monthers
+
 
 
 
@@ -101,7 +101,6 @@ mothent
 032E02B4-0499-05A4-1806-470700080009
 perm
 
-monthers
 
-monthers
+
 
