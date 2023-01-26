@@ -1,2 +1,1 @@
-# RuneSwitch
-Just a nicely packaged switching utility. Pking and pvming cuz why not
+This project was moved to a secure server. Thanks for using :)
