@@ -1,1 +1,1 @@
-This project was moved to a secure server. Thanks for using :)
+This project was moved to a private server. Thanks for using :)
